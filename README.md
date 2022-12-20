@@ -31,7 +31,7 @@ perlu untuk di tempatkan di dalam blok try.
 • Ketika ada kesalahan maka kode di blok except akan dieksekusi,
 • sebaliknya jika program tidak memiliki kesalahan maka blok except
 akan di abaikan.
-# Contoh :
+• Contoh
 ``` bash
 try:
 
